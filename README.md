@@ -28,47 +28,47 @@ V1.0 : First Release, with 40 Musics TAUNTS in WAV. format
 
 COMPLETE LIST OF MUSIC TAUNTS :
 
-2NE1 - 내가 제일 잘 나가 
-Aqua - Barbie Girl 
-Iggy Azalea - Black Widow (Instrumental)
-BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)
-GARMIANI - Bomb A Drop 
-Vengaboys - BoomBoomBoomBoom 
-Chamillionaire - Ridin 
-Crazy Frog - Axel F 
-Initial D - Deja Vu 
-Diplo, Sia, Labrinth - LSD 
-DJ Snake - Magenta Riddim
-DMX - Party Up 
-Eminem - The Real Slim Shady 
-Eminem - Venom 
-BIGBANG - Fantastic Baby 
-PSY - Gangnam Style 
-Coolio - Gangsta Paradise 
-Daft Punk - Harder Better Faster Stronger
-House of Pain - Jump Around 
-Kanye West, Jay-Z - ♥♥♥♥♥♥ in Paris 
-Fedde Le Grand - Let Me Think About It 
-Lil Jon - Get Low 
-LMFAO - Sexy And I Know It
-Lou Bega - Mambo No5 
-Rick Astley - Never Gonna Give You Up 
-NOMA - Brain Power 
-PIKOTARO - Pen Pineapple Apple Pen 
-Phao - 2 Phut On 
-Pitbull - We Are one 
-PSY, Snoop Dogg - Hangover 
-Pudi Pudi 
-Scatman John - Scatman's World 
-Soulja Boy Tell'Em - Crack That 
-Swedish House Mafia - Miami 2 Ibiza 
-Macklemore - Thrift Shop 
-DJ Snake - Turn Down For What 
-Silento - Watch Me 
-Wiz Khalifa - We Dem Boyz 
-Jason Derulo, Snoop Dogg - Wiggle 
-DMX - X Gon Give It To Ya 
-Yellow Claw - DJ Turn It Up 
+- 2NE1 - 내가 제일 잘 나가 
+- Aqua - Barbie Girl 
+- Iggy Azalea - Black Widow (Instrumental)
+- BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)
+- GARMIANI - Bomb A Drop 
+- Vengaboys - BoomBoomBoomBoom 
+- Chamillionaire - Ridin 
+- Crazy Frog - Axel F 
+- Initial D - Deja Vu 
+- Diplo, Sia, Labrinth - LSD 
+- DJ Snake - Magenta Riddim
+- DMX - Party Up 
+- Eminem - The Real Slim Shady 
+- Eminem - Venom 
+- BIGBANG - Fantastic Baby 
+- PSY - Gangnam Style 
+- Coolio - Gangsta Paradise 
+- Daft Punk - Harder Better Faster Stronger
+- House of Pain - Jump Around 
+- Kanye West, Jay-Z - ♥♥♥♥♥♥ in Paris 
+- Fedde Le Grand - Let Me Think About It 
+- Lil Jon - Get Low 
+- LMFAO - Sexy And I Know It
+- Lou Bega - Mambo No5 
+- Rick Astley - Never Gonna Give You Up 
+- NOMA - Brain Power 
+- PIKOTARO - Pen Pineapple Apple Pen 
+- Phao - 2 Phut On 
+- Pitbull - We Are one 
+- PSY, Snoop Dogg - Hangover 
+- Pudi Pudi 
+- Scatman John - Scatman's World 
+- Soulja Boy Tell'Em - Crack That 
+- Swedish House Mafia - Miami 2 Ibiza 
+- Macklemore - Thrift Shop 
+- DJ Snake - Turn Down For What 
+- Silento - Watch Me 
+- Wiz Khalifa - We Dem Boyz 
+- Jason Derulo, Snoop Dogg - Wiggle 
+- DMX - X Gon Give It To Ya 
+- Yellow Claw - DJ Turn It Up 
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
